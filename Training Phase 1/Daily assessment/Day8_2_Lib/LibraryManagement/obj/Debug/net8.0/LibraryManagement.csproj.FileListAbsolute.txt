@@ -1,0 +1,31 @@
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\xunit.core.dll
+C:\Users\na777\source\repos\LibraryManagement\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryM.685EF3B5.Up2Date
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\na777\source\repos\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
