@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "8nfNxHtyav3Gn/JuBexQjYKITagLiXnD/3yvaHckGe8=",
+  "Source": "day8ques3as1",
+  "BasePath": "_content/day8ques3as1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "day8ques3as1\\wwwroot",
+      "Source": "day8ques3as1",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\",
+      "BasePath": "_content/day8ques3as1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\index.html",
+      "SourceId": "day8ques3as1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\",
+      "BasePath": "_content/day8ques3as1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\script.js",
+      "SourceId": "day8ques3as1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\",
+      "BasePath": "_content/day8ques3as1",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\style.css",
+      "SourceId": "day8ques3as1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\day8ques3as1\\wwwroot\\",
+      "BasePath": "_content/day8ques3as1",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
