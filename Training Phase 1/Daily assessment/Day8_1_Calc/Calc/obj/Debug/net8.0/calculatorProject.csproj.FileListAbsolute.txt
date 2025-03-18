@@ -1,0 +1,72 @@
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\calculatorProject.exe
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\calculatorProject.deps.json
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\calculatorProject.runtimeconfig.json
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\calculatorProject.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\calculatorProject.pdb
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\na777\source\repos\calculatorProject\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.csproj.AssemblyReference.cache
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.AssemblyInfoInputs.cache
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.AssemblyInfo.cs
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculat.4CD23538.Up2Date
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.dll
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\refint\calculatorProject.dll
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.pdb
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\calculatorProject.genruntimeconfig.cache
+C:\Users\na777\source\repos\calculatorProject\obj\Debug\net8.0\ref\calculatorProject.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\calculatorProject.exe
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\calculatorProject.deps.json
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\calculatorProject.runtimeconfig.json
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\calculatorProject.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\calculatorProject.pdb
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.csproj.AssemblyReference.cache
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.AssemblyInfoInputs.cache
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.AssemblyInfo.cs
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculat.4CD23538.Up2Date
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\refint\calculatorProject.dll
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.pdb
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\calculatorProject.genruntimeconfig.cache
+C:\Users\palak\Downloads\calculatorProject\calculatorProject\obj\Debug\net8.0\ref\calculatorProject.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\calculatorProject.exe
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\calculatorProject.deps.json
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\calculatorProject.runtimeconfig.json
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\calculatorProject.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\calculatorProject.pdb
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.csproj.AssemblyReference.cache
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.AssemblyInfoInputs.cache
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.AssemblyInfo.cs
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculat.4CD23538.Up2Date
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\refint\calculatorProject.dll
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.pdb
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\calculatorProject.genruntimeconfig.cache
+C:\Users\palak\OneDrive\Desktop\csharp\Day 8\calculatorProject\obj\Debug\net8.0\ref\calculatorProject.dll
