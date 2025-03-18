@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.AssemblyInfo.cs
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\bin\Debug\net8.0\SOLIDPrinciplesDemo.exe
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\bin\Debug\net8.0\SOLIDPrinciplesDemo.deps.json
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\bin\Debug\net8.0\SOLIDPrinciplesDemo.runtimeconfig.json
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\bin\Debug\net8.0\SOLIDPrinciplesDemo.dll
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\bin\Debug\net8.0\SOLIDPrinciplesDemo.pdb
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.dll
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\refint\SOLIDPrinciplesDemo.dll
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.pdb
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\SOLIDPrinciplesDemo.genruntimeconfig.cache
+C:\Users\User\source\repos\SOLIDPrinciplesDemo\SOLIDPrinciplesDemo\obj\Debug\net8.0\ref\SOLIDPrinciplesDemo.dll
